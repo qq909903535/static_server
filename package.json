@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/qq909903535/static_server/issues"
   },
-  "homepage": "https://github.com/qq909903535/static_server#readme"
+  "homepage": "https://github.com/qq909903535/static_server#readme",
+  "dependencies": {
+    "mime": "^2.3.1"
+  }
 }
